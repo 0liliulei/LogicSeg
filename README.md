@@ -1,2 +1,2 @@
 # LogicSeg
-(ICCV23) LOGICSEG: Parsing Visual Semantics with Neural Logic Learning and Reasoning
+(ICCV23 Oral) LOGICSEG: Parsing Visual Semantics with Neural Logic Learning and Reasoning
